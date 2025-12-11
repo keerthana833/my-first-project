@@ -7,9 +7,9 @@ This repository contains three beginner python projects that mark the start of m
 # DESCRIPTION:
 Each project is simple and very basic but those projects helped me alot to understand the basic concepts and logics and also
 helped me practice:
-# User input handling
-# conditional logic (if/elif/else)
-# Git and Github basics
+-User input handling
+-conditional logic (if/elif/else)
+-Git and Github basics
 
 # How to Run
 1.Open your terminal or command prompt.
